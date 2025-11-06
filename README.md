@@ -41,8 +41,8 @@ The goal is to enable business stakeholders to:
 📷 Dashboard Preview  
 [Customer Churn Dashboard](dashboard_screenshot.png)
 
-[Download Power BI File](Customer_Churn_Analysis_RishabhYadav.pbix)  
-
+[Download Power BI File](Customer_Churn_Analysis.pbix)
+  
 🧠 How to Use
 1. Download the `.pbix` file from this repository.  
 2. Open it in Power BI Desktop (Free).  
@@ -52,4 +52,5 @@ The goal is to enable business stakeholders to:
 💼 Open to Data Analyst / Business Analyst opportunities  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rishabhyadav003/)  
 📂 [GitHub Portfolio](https://github.com/Raorishabh)  
+
 
